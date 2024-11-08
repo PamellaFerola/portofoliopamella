@@ -1,0 +1,57 @@
+{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+header {
+    text-align: center;
+    background: radial-gradient(rgb(39, 39, 80), rgb(67, 67, 134), rgb(118, 118, 204));
+    color: white;
+    padding: 20px;
+}
+
+.contact-info p a {
+    color: #d4ab43;
+    text-decoration: none;
+}
+
+main {
+   
+    background: radial-gradient(rgb(39, 39, 80), rgb(67, 67, 134), rgb(118, 118, 204));
+    
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #0077b6;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: radial-gradient(rgb(39, 39, 80), rgb(67, 67, 134), rgb(118, 118, 204));
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
